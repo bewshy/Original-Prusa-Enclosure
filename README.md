@@ -1,7 +1,7 @@
 # Original-Prusa-Enclosure
-Original Prusa Enclosure 
+Original Prusa Enclosure with cut outs removed for use with acrylic.
 
-This repository contains STEP files and STLs of the Enclosure parts.
+This repository contains STEP files for the Prusa Enclosure panels. 
 
 **Links**
 
