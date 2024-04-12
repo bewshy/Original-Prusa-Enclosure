@@ -1,5 +1,5 @@
 # Original-Prusa-Enclosure
-Original Prusa Enclosure with cut outs removed for use with acrylic.
+Side and rear panels for the Original Prusa Enclosure with cutouts removed for use with acrylic.
 
 This repository contains STEP files for the Prusa Enclosure panels. 
 
